@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "Lightway endpoint handler for a nodejs server for git repos",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/rantasma/gitpoint",
+  "bugs": {
+	"url": "https://github.com/rantasma/gitpoint/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rantasma/gitpoint.git"
   },
   "keywords": [
     "git",
