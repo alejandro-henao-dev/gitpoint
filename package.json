@@ -1,0 +1,21 @@
+{
+  "name": "gitpoint",
+  "version": "1.0.0",
+  "description": "Lightway endpoint handler for a nodejs server for git repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "express",
+    "server",
+    "backend",
+    "middlerware"
+  ],
+  "author": "Rat",
+  "license": "ISC",
+  "dependencies": {
+    "through": "^2.3.8"
+  }
+}
